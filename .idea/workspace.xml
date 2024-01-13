@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d38d58e-6ed6-4bea-8dd5-e76306ee8245" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/StringManupulationMethodlar/Soru_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringManupulationMethodlar/Soru_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringManupulationMethodlar/Soru_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringManupulationMethodlar/Soru_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringManupulationMethodlar/Soru_11.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,9 +39,9 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Soru_9">
-    <configuration name="Soru_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringManupulationMethodlar.Soru_5" />
+  <component name="RunManager" selected="Application.Soru_11">
+    <configuration name="Soru_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringManupulationMethodlar.Soru_11" />
       <module name="JavaTekrar" />
       <extension name="coverage">
         <pattern>
@@ -108,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Soru_11" />
         <item itemvalue="Application.Soru_9" />
         <item itemvalue="Application.Soru_8" />
         <item itemvalue="Application.Soru_7" />
         <item itemvalue="Application.Soru_6" />
-        <item itemvalue="Application.Soru_5" />
       </list>
     </recent_temporary>
   </component>
