@@ -1,6 +1,6 @@
 package StringManupulationMethodlar;
 
-public class Soru__16 {
+public class Soru_16 {
 
     public static void main(String[] args) {
 

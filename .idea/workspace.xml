@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d38d58e-6ed6-4bea-8dd5-e76306ee8245" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Regex_Sorular/Soru_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Regex_Sorular/Soru_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringManupulationMethodlar/Soru_15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringManupulationMethodlar/Soru_18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringManupulationMethodlar/Soru_19.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringManupulationMethodlar/Soru__16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringManupulationMethodlar/Soru_16.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,39 +40,13 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Soru__16">
+  <component name="RunManager" selected="Application.Soru_19">
     <configuration name="Soru_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Regex_Sorular.Soru_1" />
       <module name="JavaTekrar" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Regex_Sorular.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Soru_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringManupulationMethodlar.Soru_13" />
-      <module name="JavaTekrar" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="StringManupulationMethodlar.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Soru_14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringManupulationMethodlar.Soru_14" />
-      <module name="JavaTekrar" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="StringManupulationMethodlar.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,8 +67,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Soru__16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringManupulationMethodlar.Soru__16" />
+    <configuration name="Soru_16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringManupulationMethodlar.Soru_16" />
+      <module name="JavaTekrar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StringManupulationMethodlar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Soru_18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringManupulationMethodlar.Soru_18" />
+      <module name="JavaTekrar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StringManupulationMethodlar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Soru_19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringManupulationMethodlar.Soru_19" />
       <module name="JavaTekrar" />
       <extension name="coverage">
         <pattern>
@@ -108,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Soru__16" />
+        <item itemvalue="Application.Soru_19" />
+        <item itemvalue="Application.Soru_18" />
+        <item itemvalue="Application.Soru_16" />
         <item itemvalue="Application.Soru_15" />
         <item itemvalue="Application.Soru_1" />
-        <item itemvalue="Application.Soru_14" />
-        <item itemvalue="Application.Soru_13" />
       </list>
     </recent_temporary>
   </component>
