@@ -8,7 +8,7 @@ public class Soru_5 {
 
        // Bir cümle içindeki tüm karakterleri nasıl büyük harfe çevirebilirsin?
 
-        String cumle = "ben her ne kadar zor olursaolsun basaracagim";
+        String cumle = "ben her ne kadar zor olursa olsun basaracagim";
 
         String buyukHarf = cumle.toUpperCase();
         System.out.println(buyukHarf);
