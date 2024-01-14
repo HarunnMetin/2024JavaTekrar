@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d38d58e-6ed6-4bea-8dd5-e76306ee8245" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SoruDeposu/Soru_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SoruDeposu/Soru_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SoruDeposu/Soru_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SoruDeposu/Soru_6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SoruDeposu/Soru_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SoruDeposu/Soru_2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,20 +39,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Soru_4">
-    <configuration name="Soru_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SoruDeposu.Soru_1" />
-      <module name="JavaTekrar" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SoruDeposu.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Soru_6">
     <configuration name="Soru_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SoruDeposu.Soru_2" />
       <module name="JavaTekrar" />
@@ -93,12 +79,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Universite (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Constructor.Universite" />
+    <configuration name="Soru_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SoruDeposu.Soru_5" />
       <module name="JavaTekrar" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Constructor.*" />
+          <option name="PATTERN" value="SoruDeposu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Soru_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SoruDeposu.Soru_6" />
+      <module name="JavaTekrar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SoruDeposu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Soru_6" />
+        <item itemvalue="Application.Soru_5" />
         <item itemvalue="Application.Soru_4" />
         <item itemvalue="Application.Soru_3" />
         <item itemvalue="Application.Soru_2" />
-        <item itemvalue="Application.Soru_1" />
-        <item itemvalue="Application.Universite (1)" />
       </list>
     </recent_temporary>
   </component>
