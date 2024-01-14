@@ -18,8 +18,7 @@ public class Soru_2 {
         char asci2 = (char) ((char) ascii +2);
         char asci3 = (char) ((char) ascii +3);
 
-        System.out.println(asci1);
-        System.out.println(asci2);
-        System.out.println(asci3);
+        System.out.println(asci1+" , "+asci2 + " , "+asci3 );
+
     }
 }

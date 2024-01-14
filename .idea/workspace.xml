@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d38d58e-6ed6-4bea-8dd5-e76306ee8245" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SoruDeposu/Soru_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SoruDeposu/Soru_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SoruDeposu/Soru_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SoruDeposu/Soru_4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SoruDeposu/Soru_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SoruDeposu/Soru_2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,20 +40,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Soru_2">
-    <configuration name="Kitap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Constructor.Kitap" />
-      <module name="JavaTekrar" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Constructor.Ogrenci" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Soru_4">
     <configuration name="Soru_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SoruDeposu.Soru_1" />
       <module name="JavaTekrar" />
@@ -79,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Universite (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Constructor.Universite" />
+    <configuration name="Soru_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SoruDeposu.Soru_3" />
       <module name="JavaTekrar" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Constructor.*" />
+          <option name="PATTERN" value="SoruDeposu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,7 +80,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Universite" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Soru_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SoruDeposu.Soru_4" />
+      <module name="JavaTekrar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SoruDeposu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Universite (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Constructor.Universite" />
       <module name="JavaTekrar" />
       <extension name="coverage">
@@ -107,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Soru_4" />
+        <item itemvalue="Application.Soru_3" />
         <item itemvalue="Application.Soru_2" />
         <item itemvalue="Application.Soru_1" />
         <item itemvalue="Application.Universite (1)" />
-        <item itemvalue="Application.Universite" />
-        <item itemvalue="Application.Kitap" />
       </list>
     </recent_temporary>
   </component>
