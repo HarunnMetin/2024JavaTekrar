@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d38d58e-6ed6-4bea-8dd5-e76306ee8245" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Exceptions/Dosya.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exceptions/Soru_3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exceptions/Soru_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exceptions/Soru_2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +39,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Exceptions.Soru_2">
+  <component name="RunManager" selected="Application.Soru_3">
     <configuration name="Exceptions.Soru_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exceptions.Soru_1" />
       <module name="JavaTekrar" />
@@ -91,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Soru_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringBuilder.Soru_9" />
+    <configuration name="Soru_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exceptions.Soru_3" />
       <module name="JavaTekrar" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StringBuilder.*" />
+          <option name="PATTERN" value="Exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Soru_3" />
         <item itemvalue="Application.Exceptions.Soru_2" />
         <item itemvalue="Application.Exceptions.Soru_1" />
         <item itemvalue="Application.Soru_2" />
         <item itemvalue="Application.Soru_1" />
-        <item itemvalue="Application.Soru_9" />
       </list>
     </recent_temporary>
   </component>
