@@ -37,7 +37,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Soru_1">
+  <component name="RunManager" selected="Application.Soru_2">
     <configuration name="Soru_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Sorular.Soru_1" />
       <module name="JavaTekrar" />
@@ -51,12 +51,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Soru_21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringManupulationMethodlar.Soru_21" />
+    <configuration name="Soru_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sorular.Soru_2" />
       <module name="JavaTekrar" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StringManupulationMethodlar.*" />
+          <option name="PATTERN" value="Sorular.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Soru_2" />
         <item itemvalue="Application.Soru_1" />
         <item itemvalue="Application.Soru_24" />
         <item itemvalue="Application.Soru_23" />
         <item itemvalue="Application.Soru_22" />
-        <item itemvalue="Application.Soru_21" />
       </list>
     </recent_temporary>
   </component>
