@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d38d58e-6ed6-4bea-8dd5-e76306ee8245" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/StringManupulationMethodlar/Soru_24.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorular/Soru_1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +37,20 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Soru_24">
+  <component name="RunManager" selected="Application.Soru_1">
+    <configuration name="Soru_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sorular.Soru_1" />
+      <module name="JavaTekrar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Sorular.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Soru_21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StringManupulationMethodlar.Soru_21" />
       <module name="JavaTekrar" />
@@ -91,26 +103,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Soru_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exceptions.Soru_4" />
-      <module name="JavaTekrar" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Exceptions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Soru_1" />
         <item itemvalue="Application.Soru_24" />
         <item itemvalue="Application.Soru_23" />
         <item itemvalue="Application.Soru_22" />
         <item itemvalue="Application.Soru_21" />
-        <item itemvalue="Application.Soru_4" />
       </list>
     </recent_temporary>
   </component>
